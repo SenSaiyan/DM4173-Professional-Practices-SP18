@@ -3,6 +3,6 @@
 
 # ASSIGNMENT: IDM End of Year Student Showcase
 
-You must submit and showcase one or more projects in the IDM End of Year Student Showcase in May (Date TBD).
+* You are required to submit and showcase one or more projects in the IDM End of Year Student Showcase in May (Date TBD).
 
 EXTRA CREDIT: Volunteer to be on the showcase team to assist with the installation of the work, promotion of the exhibition, and / or  the facilitation of the show. Contact Katherine Bennett, the faculty advisor, or Ife.

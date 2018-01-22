@@ -4,7 +4,7 @@
 # ASSIGNMENT: CALENDAR
 
 * Keep an analog or digital calendar of your choice.
-* Please edit on slack calendar and list what you're using.
+* Please edit the **Calendar and Planner / Journal Choice** note pinned on the pro_sp18 slack channel and list what calendar(s) and planner(s)/journal(s) you currently use or will be using this semester.
 
 
 

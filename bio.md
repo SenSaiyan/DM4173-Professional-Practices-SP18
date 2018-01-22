@@ -3,8 +3,8 @@
 
 # ASSIGNMENT: Bio / About
 
-* Write a short bio of yourself as an artist, designer, developer, creative technologist or entrepreneur for submissions to conferences and post in google drive folder **bio**
+* Write a short bio of yourself as an artist, designer, developer, creative technologist or entrepreneur for submissions to conferences and post in [your google drive folder for this class](deliverables.md) as **bio**.
 
-* Write a longer bio for your about page on your personal website. Your About page is the second most visited page on any person's website.
+* Write a longer bio for your **about page on your personal website**. Your about page is the second most visited page on any person's website.
 
 

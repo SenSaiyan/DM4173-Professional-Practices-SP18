@@ -6,7 +6,7 @@
 * Develop a comprehensive professional plan with key goals, milestones, practical considerations, and tasks that are oriented around a vision you have of yourself in a year.
 
 * Who do you want to **be**?
-* *Who* do you want to be surrounded by? (average of 5 people. Who are )
+* *Who* do you want to be surrounded by? *(Jim Rohn is quoted as saying that you are the average of the 5 people you spend the most time with.)*
 * *Where* do you want to live?
 * *What* do you want to **do**?
 * What do you want to **have**?
