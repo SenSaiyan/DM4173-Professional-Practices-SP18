@@ -104,7 +104,6 @@ Rules of the Critique:
 
 ### TECHNOLOGY
 
-
 Laptop computers and other mobile devices are invaluable tools for artists, designers, and students when used responsibly. However, this technology can also be incredibly distracting, especially in the classroom. When in class, you may use your laptops and other devices for any activities pertaining to the course: taking notes, researching material relevant to our readings and discussions, doing professional practices homework, making class presentations, etc. However, the following uses are unacceptable: checking email, instant messaging, texting, using social networking sites such as facebook, etc. 
 
 ### COMMUNICATING WITH THE PROFESSOR OUTSIDE OF CLASS
@@ -209,14 +208,16 @@ You MUST have complete rights of use to any and all materials which appear in yo
 
 If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 212-998-4980 or mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. Information about the Moses Center can be found at www.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
 
-### REQUIRED BOOK
-
 ### REQUIRED READINGS
 _The following list of required readings is subject to change. The instructor will communicate any updates._
 
+* [Crossroads of Should and Must: Fin and Follow Your Passion](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjOjq-6wezYAhXkdN8KHSEXCREQFggqMAA&url=https%3A%2F%2Fwww.amazon.com%2FCrossroads-Should-Must-Follow-Passion%2Fdp%2F0761184880&usg=AOvVaw23HybdANBazwkK3CEZK8Aa) by Elle Luna
 * [Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of Finishing College](http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf) by Charlie Hoehn 
 * [The Four-Year Career](http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?) by Anya Kamenetz 
-* [This Is Generation Flux: Meet The Pioneers Of The New (And Chaotic) Frontier Of Business](http://www.fastcompany.com/magazine/162/generation-flux-future-of-business) by Robert Safian  
+* [This Is Generation Flux: Meet The Pioneers Of The New (And Chaotic) Frontier Of Business](http://www.fastcompany.com/magazine/162/generation-flux-future-of-business) by Robert Safian 
+
+### REQUIRED VIEWINGS
+* [PressPausePlay](https://vimeo.com/34608191) Documentary 
 
 ### REQUIRED SOFTWARE
 If you don't already have the following software, purchase the [student adobe creative cloud option](https://www.adobe.com/creativecloud/buy/students.html?promoid=N7FDRVG6&mv=other) to get the following. 

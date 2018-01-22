@@ -14,12 +14,6 @@
 <td>wk</td>
 <td>Tuesdays (Due on Date Listed)</td>
 </tr>
-
-<tr>
-<td></td>
-<td><strong><a href="mgs_pre_work.md">Pre-work</a></strong></td>
-</tr>
-
 <tr>
 <td><strong>Jan 23</strong></td>
 <td>
@@ -78,6 +72,7 @@
 <li><a href="creative_industries_research.md">Creative Industries Research</a></li>
 <li><a href="1yrplan.md">1-Year Plan</a></li>
 <li><a href="1yearletter.md">1-Year Letter to Yourself</a></li>
+<li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
 
@@ -88,7 +83,6 @@
 <li><a href="bio.md">Bio / About Page</a> Draft</li>
 <li><a href="linkedin.md">LinkedIn Profile</a> Draft</li>
 <li><a href="statement.md">Creative or Research Statement</a>
-<li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
