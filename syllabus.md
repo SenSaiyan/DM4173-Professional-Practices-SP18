@@ -214,9 +214,9 @@ _The following list of required readings is subject to change. The instructor wi
 * [Crossroads of Should and Must: Fin and Follow Your Passion](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjOjq-6wezYAhXkdN8KHSEXCREQFggqMAA&url=https%3A%2F%2Fwww.amazon.com%2FCrossroads-Should-Must-Follow-Passion%2Fdp%2F0761184880&usg=AOvVaw23HybdANBazwkK3CEZK8Aa) by Elle Luna
 * [Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of Finishing College](http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf) by Charlie Hoehn 
 * [The Four-Year Career](http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?) by Anya Kamenetz 
-* [This Is Generation Flux: Meet The Pioneers Of The New (And Chaotic) Frontier Of Business](http://www.fastcompany.com/magazine/162/generation-flux-future-of-business) by Robert Safian 
 
 ### REQUIRED VIEWINGS
+
 * [PressPausePlay](https://vimeo.com/34608191) Documentary 
 
 ### REQUIRED SOFTWARE
