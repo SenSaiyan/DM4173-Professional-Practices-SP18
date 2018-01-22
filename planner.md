@@ -4,11 +4,11 @@
 # ASSIGNMENT: PLANNER OR JOURNAL
 
 * Procure and use an analog or digital planner or journal on a daily or weekly basis.
-* Post what system you are using to the planner page on slack.
+* ** Please edit the **Calendar and Planner / Journal Choice** note pinned on the pro_sp18 slack channel and list what calendar(s) and planner(s)/journal(s) you currently use or will be using this semester.
 * What do you *want* to make happen this semester?
 * What do you *need* to make happen this semester?
 
-Resources (Not Limited to):
+Resources **NOT Limited to**:
 
 **Planners**
 * [Ink &amp; Volt](https://inkandvolt.com/product/volt-planner/)
@@ -18,10 +18,10 @@ Resources (Not Limited to):
 **Journals**
 * [Bullet Journal](http://bulletjournal.com/)
 * [Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
-* [Best Self Journal](http://www.intelligentchange.com/five-minutes)
+* [Best Self Journal](https://bestself.co/products/self-journal)
 
 
-###Planners
+**PLANNERS**
 
 [Ink &amp; Volt](https://inkandvolt.com/product/volt-planner/)
 
@@ -32,15 +32,17 @@ I personally use the Ink and Volt Planner. What’s great about this planner is 
 If you don’t like the format of Ink and Volt, Intelligent Change has created the Productivity Planner. The Productivity Planner is a little different: it already has a place for your most important tasks, as well as your secondary and additional tasks and notes. You can also give yourself a productivity score for the day. What’s great about this journal is that it also has a section for people who use the pomodoro technique. 
 
 [Passion Planner](http://www.passionplanner.com/)
+
 The weekly appointment calendar is the focus of this planner alongside daily and weekly focuses, goal setting guide, personal &amp; work to-do lists, daily goal measurement, monthly reflection, gratitude log, motivational quotes, and blank &amp; grid pages for sketchbook or journal.
 
 Now, the one thing I don’t like about the Passion Planner is the weekly appointment calendar because I use a weekly digital calendar. (Technically, I use Google Calendar and a big desk calendar that I've taken apart and arranged on my wall, providing me with an analog annual view for big-picture scheduling and long-term planning, and a digital daily calendar for details.) Some people prefer analog handwritten calendars, and if you do, this would be a great journal / planner combo for you. But, since some people (like me) prefer to use Google Calendar and still others like to use iCal, this feature isn't best for everyone. 
 
-###Journals
+**JOURNALS**
 
 Journals are a little bit different from planners. Planners are more about what you are actually doing—that is, the actions you are taking. Journals are usually about your thoughts, feelings and emotions. These are also very important to track because your thoughts, feelings, and emotions can affect your productivity profoundly.
 
 [Bullet Journal](http://bulletjournal.com/)
+
 This journal is not a physical journal, but a system. A lot of students love it. It uses a simple notation system. The Bullet Journal defines itself as "a customizable and forgiving organization system. It can be your to-do list, sketchbook, notebook, and diary, but most likely, it will be all of the above. It will teach you to do more with less."
 
 [Five Minute Journal](https://www.intelligentchange.com/products/the-five-minute-journal)
@@ -50,7 +52,7 @@ In addition to the Productivity Planner, Intelligent Change also creates The Fiv
 At the end of the day, The Five Minute Journal prompts you to talk about three amazing things that happened today. In my opinion, what’s even better than that—because this course is about iteration and continuous improvement—is the bottom section: "How could I have made today even better?"
 
 
-[Best Self Journal](http://www.intelligentchange.com/five-minutes)
+[Best Self Journal](https://bestself.co/products/self-journal)
 
 And now I want to talk to you about the Best Self Journal. This journal breaks down milestones in a thirteen-week road map. This is really close to a fifteen-week semester, because usually the first week is taken up with introductions and the final week is really for your final project presentation. So the thirteen-week road map works well for a semester.
 

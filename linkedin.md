@@ -3,7 +3,8 @@
 
 # ASSIGNMENT: LinkedIn Profile
 
-* Create or update your LinkedIn Profile. Post URL to #LinkedIn Slack Channel
+* Create or update your LinkedIn Profile. 
+* Please edit the **LinkedIN Links** note pinned on the pro_sp18 slack channel and list your name and URL.
 * Connect with your classmates, professors, and other professionals from networking.
 
 

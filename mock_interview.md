@@ -3,5 +3,5 @@
 
 # ASSIGNMENT: MOCK INTERVIEW
 
-Students will participate in a mock job interview with a potential “employer.”
+* Students will participate in a mock job interview with a potential “employer.” Date TBD.
 

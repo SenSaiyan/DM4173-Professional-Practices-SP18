@@ -3,7 +3,7 @@
 
 # RECOMMENDED RESOURCES
 
-##Career Preparation
+## Career Preparation
 
 *NYU Resources*
 * [Wasserman Center](https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html)
@@ -29,7 +29,7 @@
 * [GoFundMe](http://gofundme.com)
 
 
-##Documentation &amp; Presentation
+## Documentation &amp; Presentation
 
 _Presentations_
 * [Issu](http://issuu.com)

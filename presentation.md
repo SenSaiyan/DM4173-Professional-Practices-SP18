@@ -3,7 +3,12 @@
 
 # ASSIGNMENT: IGNITE OR PECHA KUCHA SLIDESHOW PRESENTATION
 
-* Students will also give 2 Pecha Kucha or Ignite style slideshow presentations on a topic of interest to them.
-* 
+* Students will also give a Pecha Kucha or Ignite style slideshow presentation about their body of work.
+* Archive your slideshow presentation on [your google drive folder for this class](deliverables.md) as **your_name presentation**.
 
-Resources
+Resources:
+* [Ignite](http://www.ignitetalks.io)
+* [Pecha Kucha](http://www.pechakucha.org)
+* [Speaking.io](http://speaking.io)
+* [Ted Talks](http://www.ted.com)
+* [EYEO Festival](https://vimeo.com/eyeofestival)
