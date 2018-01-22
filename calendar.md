@@ -5,6 +5,7 @@
 
 * Keep an analog or digital calendar of your choice.
 * Please edit the **Calendar and Planner / Journal Choice** note pinned on the pro_sp18 slack channel and list what calendar(s) and planner(s)/journal(s) you currently use or will be using this semester.
+* Make sure you have key dates and milestones in your calendar(s) of actionable tasks that will lead you to create the vision you have of your future self that you will make happen by the end of this semester and beyond.
 
 
 

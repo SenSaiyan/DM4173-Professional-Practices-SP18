@@ -7,6 +7,9 @@
 * ** Please edit the **Calendar and Planner / Journal Choice** note pinned on the pro_sp18 slack channel and list what calendar(s) and planner(s)/journal(s) you currently use or will be using this semester.
 * What do you *want* to make happen this semester?
 * What do you *need* to make happen this semester?
+* Develop a comprehensive professional plan with key goals, milestones, practical considerations, and actionable tasks that will lead you to create the vision you have of your future self that you will make happen by the end of this semester and beyond.
+* You must prioritize.
+
 
 Resources **NOT Limited to**:
 

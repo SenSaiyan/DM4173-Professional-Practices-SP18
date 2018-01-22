@@ -155,7 +155,7 @@ Projects:
 * 2.5% [Inspiration (Audio Podcast Analysis or Video Analysis)](inspiration.md)
 
 *Documentation & Presentation*
-* 05% [Website](website.md)
+* 05% [Web Portfolio](web_portfolio.md)
 * 2.5% [Ignite or Pecha Kucha Slideshow Presentation](presentation.md)
 
 *Exhibition & Promotion*
