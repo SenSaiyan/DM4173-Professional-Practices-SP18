@@ -3,6 +3,10 @@
 
 # ASSIGNMENT: ONE-YEAR PLAN
 
+_"You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose. You're on your own. And you know what you know. And YOU are the one who'll decide where to go..."_
+
+~ Dr. Seuss, Oh, The Places You'll Go!
+
 * Develop a comprehensive professional plan with key goals, milestones, practical considerations, and tasks that are oriented around a vision you have of yourself in a year.
 
 * Who do you want to **be**?

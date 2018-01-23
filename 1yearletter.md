@@ -3,6 +3,8 @@
 
 # ASSIGNMENT: 1 YEAR LETTER
 
+_"Your imagination is the preview to life's coming attractions."_ ~Albert Einstein
+
 * Write a letter to your future self and date it one year from now. You should imagine that you have accomplished all the goals you have outlined in your one-year plan. 
 * I will send it to you via email one year from now. Yes! I will. I've done it before. 
 * Make sure you include your personal email at the top or bottom of the letter.
