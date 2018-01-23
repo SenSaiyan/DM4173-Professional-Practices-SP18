@@ -18,7 +18,7 @@ Choose one or the other:
 Using your key values, 
 * write a personal mission statement (Keep it clear, concise, and compelling.) OR 
 * write your personal motto (think of it as your own personal hashtag)
-* Post to [your google drive folder for this class](deliverables.md) in a file labeled either **your_name mission statement** or **your_name personal motto** . 
+* Post to [your google drive folder for this class](deliverables.md) in a file labeled either **your_name mission statement** or **your_name personal motto**. 
 
 Examples of personal mission statements:
 * "My mission is in life is to make people happy." ~ Walt Disney

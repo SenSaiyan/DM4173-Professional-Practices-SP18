@@ -7,4 +7,6 @@
 
 * Write a longer bio for your **about page on your personal website**. Your about page is the second most visited page on any person's website.
 
+* You should expect to constantly revise both over the course of the semester as needed. 
+
 

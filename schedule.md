@@ -63,6 +63,7 @@
 <strong>How would you want to be remembered?</strong>
 <ul>
 <li><a href="inspiration.md">Inspiration (Audio Podcast or Video (Ted, EYEO, Lynda.com) Analysis)</li>
+<li><a href="goals.md">Goals</a></li>
 <li><a href="obituary_eulogy.md">Obituary / Eulogy</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul>
@@ -123,6 +124,7 @@
 <tr>
 <td><strong>Mar 27</strong></td>
 <td>
+<strong>What are you passionate about?</strong>
 <ul>
 <li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
@@ -136,6 +138,8 @@
 <ul>
 <li>Schedule 20 minutes ONLY at <a href="https://calendly.com/deangela">https://calendly.com/deangela</a>
 <li><a href="self_assessments.md">Midterm Self Assessment Due</a></li>
+<li>Status of <a href="fact-finding_interview.md">Fact-finding informational interview</a>
+<li>Your <a href="network.md">professional networking</a> requirement should be done by or before this date.</li>
 </ul></td>
 </tr>
 
@@ -146,16 +150,21 @@
 
 <tr>
 <td><strong>Apr 3</strong></td>
-<td><ul>
-<li></li>
+<td><strong>How will you promote yourself?</strong><ul>
+<li><a href="promo.md">Self Promotion</a></li>
+<li><a href="web_portfolio.md">Web Portfolio Development</a> 2nd Draft
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
 
 <tr>
 <td><strong>Apr 10</strong></td>
-<td><ul>
-<li></li>
+<td>
+<strong>Are you good at interviewing and negotiating?</strong>
+<ul>
+<li>Interview Techniques</li>
+<li>Salary Negotiation</li>
+<li>Freelance Practices</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
@@ -168,30 +177,35 @@
 <tr>
 <td><strong>Apr 24</strong></td>
 <td><ul>
-<li></li>
+<li><a href="mock_interview.md">Mock Interviews</a> (Tentative</li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
 
 <tr>
 <td><strong>May 1</strong></td>
-<td><ul>
-<li></li>
+<td>Watch the followoing and post your response on the designated slack channel. Do not write a summary. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own thoughts and ideas or how it will inform or change your future.<ul>
+<li><a href="https://vimeo.com/34608191" target="_blank">PressPausePlay Documentary</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
 
 <tr>
 <td><strong>May 8</strong></td>
-<td><ul>
-<li></li>
+<td>Read the followoing and post your response on the designated slack channels. Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while reading, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why).<ul>
+
+<li><a href="http://charliehoehn.files.wordpress.com/2009/07/recession-proof-graduate1.pdf" target="_blank">Recession-Proof Graduate: Charlie Hoehn’s Guide To Getting Any Job Within A Year Of  Finishing College</a> by Charlie Hoehn
+<li><a href="http://www.fastcompany.com/magazine/162/average-time-spent-at-job-4-years?"  target="_blank">The Four-Year Career</a> by Anya Kamenetz</li> 
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>
 
 <tr>
 <td><strong>May 15</strong></td>
-<td><ul>
+<td>
+<strong>How will you live a life by design and not by default?</strong>
+<ul>
+<li><a href="presentation.md">Ignite or Pecha Kucha Slideshow Presentation</a></li>
 <li><a href="self_assessments.md">Final Self Assessment Due</a></li>
 </ul></td>
 </tr>
