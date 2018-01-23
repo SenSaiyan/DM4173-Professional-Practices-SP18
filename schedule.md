@@ -17,6 +17,7 @@
 <tr>
 <td><strong>Jan 23</strong></td>
 <td>
+<strong>What is the point of this course?</strong>
 <ul>
 <li>Review <a href="syllabus.md">Syllabus</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
@@ -28,6 +29,7 @@
 <tr>
 <td><strong>Jan 30</strong></td>
 <td>
+<strong>Which road will you choose? Should or Must.</strong>
 <ul>
 <li>Group Share</li>
 <ul>
@@ -47,6 +49,7 @@
 <tr>
 <td><strong>Feb 6</strong></td>
 <td valign="top">
+<strong>What is most important to you?</strong>
 <ul>
 <li><a href="reflection_journal.md">Reflection Journal</a></li>
 <li><a href="values.md">Values</a></li>
@@ -57,6 +60,7 @@
 <tr>
 <td><strong>Feb 13</strong></td>
 <td>
+<strong>How would you want to be remembered?</strong>
 <ul>
 <li><a href="inspiration.md">Inspiration (Audio Podcast or Video (Ted, EYEO, Lynda.com) Analysis)</li>
 <li><a href="obituary_eulogy.md">Obituary / Eulogy</a></li>
@@ -68,8 +72,10 @@
 <tr>
 <td><strong>Feb 20</strong></td>
 <td>
+<strong>What do you want your legacy to be?</strong>
 <ul>
 <li><a href="creative_industries_research.md">Creative Industries Research</a></li>
+<li><a href="statement.md">Creative or Research Statement</a></li>
 <li><a href="1yrplan.md">1-Year Plan</a></li>
 <li><a href="1yearletter.md">1-Year Letter to Yourself</a></li>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
@@ -79,10 +85,10 @@
 <tr>
 <td><strong>Feb 27</strong></td>
 <td>
+<strong>Who do you want to be?</strong>
 <ul>
 <li><a href="bio.md">Bio / About Page</a> Draft</li>
 <li><a href="linkedin.md">LinkedIn Profile</a> Draft</li>
-<li><a href="statement.md">Creative or Research Statement</a>
 <li>Review <a href="https://www.nyu.edu/students/student-information-and-resources/career-development-and-jobs.html" target="_blank">Wasserman Center Events</a></li>
 </ul></td>
 </tr>

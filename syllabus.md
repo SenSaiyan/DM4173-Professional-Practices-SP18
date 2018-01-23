@@ -25,7 +25,7 @@ _You will never come up against a greater adversary than your own potential, my 
 
 This course introduces students to the fundamental skills and professional practices vital to pursuing a career within a range of creative fields and industries. Students will explore strategies for effective documentation and presentation of their creative work, the art of self-promotion and exhibiting work publicly in various forms and environments, as well as networking and career preparation. 
 
-
+In order to succeed, this course requires you to devote a lot of time and effort oustide of class, throughout the entire semester.
 
 
 ### PROGRAM GOALS
@@ -89,18 +89,20 @@ By the end of the course, students will:
 * learn how to use their resources in order to find a job or pursue other career opportunities
 * explore different career paths (industry, academia, entrepreneurship, freelance, creative)
 
+**The ultimate goals of this course is to learn how to live a life by design, not by default.**
+
 ### CLASS FORMAT
 
-Class will be comprised of lectures, discussions, presentations, and critiques. 
+Class will be comprised of lectures, workshops, discussions, presentations, and critiques. 
 
-Also, as a part of this course, students will participate in a mock job interview, go on an informational interview for an internship/job, and research a range of professional opportunities available to the Integrated Digital Media student. In addition to exploring these practical professional concerns, guest speakers will augment classroom activities.
+Also, as a part of this course, students will participate in a mock job interview, go on an informational interview for an internship/job/other opportunity, and research a range of professional opportunities available to the Integrated Digital Media student. In addition to exploring these practical professional concerns, guest speakers will augment classroom activities.
 
 Critiques are the best way to articulate your ideas to others and get immediate feedback. During the crit, the professor and your classmates analyze and suggest ways to increase the visual and conceptual impact of each existing idea. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your crit notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand the ideas that show the most promise. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
 
 Rules of the Critique:
-* Be Present and Engaged
+* Be Present and Engaged (In other words, close your laptops and put away your smart phones.)
 * Give Feedback to your classmates
-* Do NOT take feedback personally.
+* Do NOT take feedback personally. (Crits are about making continuous improvement on whatever your working on.) 
 
 ### TECHNOLOGY
 
@@ -178,15 +180,11 @@ Projects:
 
 Each student will be judged on the quality, experimentation, and improvement that their work shows.
 
-* **Excellent** Performance and attendance of the student has been of the highest level. Performance, participation, attendance of the student has been of the highest level, showing sustained excellence in meeting course responsibilities. Work clearly differentiates itself from other work, has memorable impact, pursues concepts and techniques above and beyond what is discussed in class. 
-
-* **Very Good / Good** Performance, participation, and attendance of students has been, good, though not of the highest level. Work demonstrates a better than average sensitivity to professional practices.
-
-* **Satisfactory** Performance, participation, and attendance of the students has been adequate, satisfactorily meeting the course requirements. Work is average and competent, showing a basic understanding of professional practices.
-
-* **Poor / Below Average** Performance, participation, and attendance of the student has been less than adequate. Work is lacking in many areas that show any understanding of professional practices. Problems may include lack of interest, procrastination, and/or poor time management.
-
-* **Unacceptable** Performance, participation, and attendance of the student has been such that course requirements have not been met. Work shows no overall understanding of the course material on many levels or either a severe lack of interest.
+* **A Excellent**** (Work of exceptional quality; Exceeds Expectations)
+* **B Good** (Solid work; Meets Expectations)
+* **C Satisfactory** (Satisfies course requirements)
+* **D Poor Work** (Less than adequate work)
+* **F Unacceptable** (The performance and/or attendance of the student has failed course requirements.)
 
 **Attendance**
 
